@@ -11,6 +11,7 @@
         "symfony/yaml": "^4.0"
     },
     "require-dev": {
+        "behat/behat": "^3.4",
         "symfony/dotenv": "^4.0",
         "symfony/thanks": "^1.0"
     },

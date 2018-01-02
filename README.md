@@ -12,5 +12,5 @@ to makes this project real, I'll use study case, it's about Course Management Sy
 ### Learning Step
 #### Coding rules
   - using TDD first (you can use PHPUnit or phpspec or both, but right now I just focused on class modeling with phpspec to driven the specification)
-
+  - Focus on Domain first, ignore data persistence, ORM, Database Schema and other technically domain (it's should be in infrastructure layer)
   - separated your domain code form any framework, this will make your domain code easier to integrated and reusable

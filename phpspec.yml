@@ -1,0 +1,4 @@
+suites:
+    course_suite:
+        namespace: Course
+        spec_path: src/Course

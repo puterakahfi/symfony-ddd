@@ -2,7 +2,7 @@
 
 namespace Course\Domain\Course\Event;
 
-class CourseAdded
+class CourseCreated
 {
-  
+
 }

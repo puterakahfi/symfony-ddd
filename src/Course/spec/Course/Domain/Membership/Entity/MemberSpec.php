@@ -8,8 +8,17 @@ use Prophecy\Argument;
 
 class MemberSpec extends ObjectBehavior
 {
-    function it_is_initializable()
+    public function it_is_initializable()
     {
+        $username  = 'username';
+        $this->beConstructedWith($username);
         $this->shouldHaveType(Member::class);
+    }
+
+    public function it_is_has_username()
+    {
+      $username  = 'username';
+      $this->beConstructedWith($username);
+      $this->username()->shouldReturn('username');
     }
 }

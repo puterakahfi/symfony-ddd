@@ -18,3 +18,4 @@
 ### DDD And API
 #### REST
 - [DDD & REST - Domain Driven APIs for the Web](https://www.infoq.com/presentations/ddd-rest/)
+- [microXchg 2017 - Oliver Gierke: DDD & REST - Domain-Driven APIs for the web](https://www.youtube.com/watch?v=1OgvUIsv96o)

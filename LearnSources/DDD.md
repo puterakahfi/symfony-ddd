@@ -19,3 +19,5 @@
 #### REST
 - [DDD & REST - Domain Driven APIs for the Web](https://www.infoq.com/presentations/ddd-rest/)
 - [microXchg 2017 - Oliver Gierke: DDD & REST - Domain-Driven APIs for the web](https://www.youtube.com/watch?v=1OgvUIsv96o)
+- [Designing APIs and Microservices Using DDD](https://www.slideshare.net/launchany/designing-apis-and-microservices-using-domaindriven-design)
+- [Pragmatic RESTful API Design](https://www.slideshare.net/apigee/rest-design-webinar)
